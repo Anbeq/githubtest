@@ -1,5 +1,4 @@
-function addNumbers(a, b) {
-    let sum = a + b;
+function add(a, b) {
     for (let number of numbers) {
         sum += numbers;
       }
